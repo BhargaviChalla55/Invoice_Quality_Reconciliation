@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "checks": [
+    "source control total",
+    "ledger control total",
+    "join cardinality",
+    "independent difference bridge",
+    "baseline controls when applicable"
+  ]
+}

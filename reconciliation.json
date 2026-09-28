@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Central",
+    "period": "2026-02",
+    "source_cents": 50888500,
+    "ledger_cents": 49385412,
+    "difference_cents": 1503088
+  },
+  {
+    "entity": "Central",
+    "period": "2026-05",
+    "source_cents": 53843574,
+    "ledger_cents": 52960178,
+    "difference_cents": 883396
+  },
+  {
+    "entity": "Central",
+    "period": "2026-06",
+    "source_cents": 0,
+    "ledger_cents": 350000,
+    "difference_cents": -350000
+  },
+  {
+    "entity": "North",
+    "period": "2026-01",
+    "source_cents": 53784965,
+    "ledger_cents": 52924282,
+    "difference_cents": 860683
+  },
+  {
+    "entity": "North",
+    "period": "2026-04",
+    "source_cents": 49262584,
+    "ledger_cents": 49292435,
+    "difference_cents": -29851
+  },
+  {
+    "entity": "North",
+    "period": "2026-06",
+    "source_cents": 0,
+    "ledger_cents": 250000,
+    "difference_cents": -250000
+  },
+  {
+    "entity": "West",
+    "period": "2026-03",
+    "source_cents": 48171778,
+    "ledger_cents": 47352105,
+    "difference_cents": 819673
+  },
+  {
+    "entity": "West",
+    "period": "2026-06",
+    "source_cents": 53775870,
+    "ledger_cents": 53141578,
+    "difference_cents": 634292
+  }
+]

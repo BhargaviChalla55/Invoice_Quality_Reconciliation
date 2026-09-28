@@ -1,0 +1,614 @@
+[
+  {
+    "entity": "North",
+    "document_id": "AP0001",
+    "posting_date": "2026-01-01",
+    "amount_cents": 730785,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0002",
+    "posting_date": "2026-02-01",
+    "amount_cents": 586175,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0003",
+    "posting_date": "2026-03-01",
+    "amount_cents": 303861,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0004",
+    "posting_date": "2026-04-01",
+    "amount_cents": 732191,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0005",
+    "posting_date": "2026-05-01",
+    "amount_cents": 836477,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0006",
+    "posting_date": "2026-06-01",
+    "amount_cents": 802964,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0007",
+    "posting_date": "2026-01-01",
+    "amount_cents": 885321,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0008",
+    "posting_date": "2026-02-01",
+    "amount_cents": 43498,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0009",
+    "posting_date": "2026-03-01",
+    "amount_cents": 234423,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0010",
+    "posting_date": "2026-04-01",
+    "amount_cents": 109259,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0011",
+    "posting_date": "2026-05-01",
+    "amount_cents": 834408,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0012",
+    "posting_date": "2026-06-01",
+    "amount_cents": 475986,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "North",
+    "document_id": "DUP001",
+    "posting_date": "2026-01-01",
+    "amount_cents": 730785,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "Central",
+    "document_id": "DUP002",
+    "posting_date": "2026-02-01",
+    "amount_cents": 586175,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "West",
+    "document_id": "DUP003",
+    "posting_date": "2026-03-01",
+    "amount_cents": 303861,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "North",
+    "document_id": "DUP004",
+    "posting_date": "2026-04-01",
+    "amount_cents": 732191,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "Central",
+    "document_id": "DUP005",
+    "posting_date": "2026-05-01",
+    "amount_cents": 836477,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "West",
+    "document_id": "DUP006",
+    "posting_date": "2026-06-01",
+    "amount_cents": 802964,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "North",
+    "document_id": "DUP007",
+    "posting_date": "2026-01-01",
+    "amount_cents": 885321,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "Central",
+    "document_id": "DUP008",
+    "posting_date": "2026-02-01",
+    "amount_cents": 43498,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "West",
+    "document_id": "DUP009",
+    "posting_date": "2026-03-01",
+    "amount_cents": 234423,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "North",
+    "document_id": "DUP010",
+    "posting_date": "2026-04-01",
+    "amount_cents": 109259,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "Central",
+    "document_id": "DUP011",
+    "posting_date": "2026-05-01",
+    "amount_cents": 834408,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "West",
+    "document_id": "DUP012",
+    "posting_date": "2026-06-01",
+    "amount_cents": 475986,
+    "issue": "Potential duplicate",
+    "owner": "AP lead",
+    "action": "Compare the original supplier invoice and purchase order before determining which record to retain."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0021",
+    "posting_date": "2026-03-01",
+    "amount_cents": 495175,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0022",
+    "posting_date": "2026-04-01",
+    "amount_cents": 40517,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0023",
+    "posting_date": "2026-05-01",
+    "amount_cents": 282632,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0024",
+    "posting_date": "2026-06-01",
+    "amount_cents": 712330,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0025",
+    "posting_date": "2026-01-02",
+    "amount_cents": 731145,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0026",
+    "posting_date": "2026-02-02",
+    "amount_cents": 431835,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0027",
+    "posting_date": "2026-03-02",
+    "amount_cents": 692120,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0028",
+    "posting_date": "2026-04-02",
+    "amount_cents": 614026,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0029",
+    "posting_date": "2026-05-02",
+    "amount_cents": 722379,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0030",
+    "posting_date": "2026-06-02",
+    "amount_cents": 850850,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0031",
+    "posting_date": "2026-01-02",
+    "amount_cents": 563160,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0032",
+    "posting_date": "2026-02-02",
+    "amount_cents": 875451,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0033",
+    "posting_date": "2026-03-02",
+    "amount_cents": 942713,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0034",
+    "posting_date": "2026-04-02",
+    "amount_cents": 112400,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0035",
+    "posting_date": "2026-05-02",
+    "amount_cents": 70538,
+    "issue": "Vendor master gap",
+    "owner": "Vendor master team",
+    "action": "Verify supplier identity and the authorized master record."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0041",
+    "posting_date": "2026-05-02",
+    "amount_cents": 514361,
+    "issue": "Date sequence",
+    "owner": "AP accountant",
+    "action": "Check document dates and service period; assess cutoff with the controller."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0042",
+    "posting_date": "2026-06-02",
+    "amount_cents": 670096,
+    "issue": "Date sequence",
+    "owner": "AP accountant",
+    "action": "Check document dates and service period; assess cutoff with the controller."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0043",
+    "posting_date": "2026-01-02",
+    "amount_cents": 626806,
+    "issue": "Date sequence",
+    "owner": "AP accountant",
+    "action": "Check document dates and service period; assess cutoff with the controller."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0044",
+    "posting_date": "2026-02-02",
+    "amount_cents": 312379,
+    "issue": "Date sequence",
+    "owner": "AP accountant",
+    "action": "Check document dates and service period; assess cutoff with the controller."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0045",
+    "posting_date": "2026-03-02",
+    "amount_cents": 361917,
+    "issue": "Date sequence",
+    "owner": "AP accountant",
+    "action": "Check document dates and service period; assess cutoff with the controller."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0046",
+    "posting_date": "2026-04-02",
+    "amount_cents": 191334,
+    "issue": "Date sequence",
+    "owner": "AP accountant",
+    "action": "Check document dates and service period; assess cutoff with the controller."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0061",
+    "posting_date": "2026-01-03",
+    "amount_cents": 11645,
+    "issue": "Missing ledger posting",
+    "owner": "GL accountant",
+    "action": "Investigate timing or interface failure; obtain approval before posting."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0062",
+    "posting_date": "2026-02-03",
+    "amount_cents": 821935,
+    "issue": "Missing ledger posting",
+    "owner": "GL accountant",
+    "action": "Investigate timing or interface failure; obtain approval before posting."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0063",
+    "posting_date": "2026-03-03",
+    "amount_cents": 869673,
+    "issue": "Missing ledger posting",
+    "owner": "GL accountant",
+    "action": "Investigate timing or interface failure; obtain approval before posting."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0064",
+    "posting_date": "2026-04-03",
+    "amount_cents": 20149,
+    "issue": "Missing ledger posting",
+    "owner": "GL accountant",
+    "action": "Investigate timing or interface failure; obtain approval before posting."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0065",
+    "posting_date": "2026-05-03",
+    "amount_cents": 933396,
+    "issue": "Missing ledger posting",
+    "owner": "GL accountant",
+    "action": "Investigate timing or interface failure; obtain approval before posting."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0066",
+    "posting_date": "2026-06-03",
+    "amount_cents": 834292,
+    "issue": "Missing ledger posting",
+    "owner": "GL accountant",
+    "action": "Investigate timing or interface failure; obtain approval before posting."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0067",
+    "posting_date": "2026-01-03",
+    "amount_cents": 874038,
+    "issue": "Missing ledger posting",
+    "owner": "GL accountant",
+    "action": "Investigate timing or interface failure; obtain approval before posting."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0068",
+    "posting_date": "2026-02-03",
+    "amount_cents": 706153,
+    "issue": "Missing ledger posting",
+    "owner": "GL accountant",
+    "action": "Investigate timing or interface failure; obtain approval before posting."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0081",
+    "posting_date": "2026-03-04",
+    "amount_cents": 264866,
+    "issue": "Amount mismatch",
+    "owner": "GL accountant",
+    "action": "Compare source and ledger details; investigate coding, tax or entry differences."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0082",
+    "posting_date": "2026-04-04",
+    "amount_cents": 939532,
+    "issue": "Amount mismatch",
+    "owner": "GL accountant",
+    "action": "Compare source and ledger details; investigate coding, tax or entry differences."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0083",
+    "posting_date": "2026-05-04",
+    "amount_cents": 10653,
+    "issue": "Amount mismatch",
+    "owner": "GL accountant",
+    "action": "Compare source and ledger details; investigate coding, tax or entry differences."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0084",
+    "posting_date": "2026-06-04",
+    "amount_cents": 644763,
+    "issue": "Amount mismatch",
+    "owner": "GL accountant",
+    "action": "Compare source and ledger details; investigate coding, tax or entry differences."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0085",
+    "posting_date": "2026-01-04",
+    "amount_cents": 511058,
+    "issue": "Amount mismatch",
+    "owner": "GL accountant",
+    "action": "Compare source and ledger details; investigate coding, tax or entry differences."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0086",
+    "posting_date": "2026-02-04",
+    "amount_cents": 772359,
+    "issue": "Amount mismatch",
+    "owner": "GL accountant",
+    "action": "Compare source and ledger details; investigate coding, tax or entry differences."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0087",
+    "posting_date": "2026-03-04",
+    "amount_cents": 750679,
+    "issue": "Amount mismatch",
+    "owner": "GL accountant",
+    "action": "Compare source and ledger details; investigate coding, tax or entry differences."
+  },
+  {
+    "entity": "North",
+    "document_id": "AP0088",
+    "posting_date": "2026-04-04",
+    "amount_cents": 771823,
+    "issue": "Amount mismatch",
+    "owner": "GL accountant",
+    "action": "Compare source and ledger details; investigate coding, tax or entry differences."
+  },
+  {
+    "entity": "Central",
+    "document_id": "AP0089",
+    "posting_date": "2026-05-04",
+    "amount_cents": 604858,
+    "issue": "Amount mismatch",
+    "owner": "GL accountant",
+    "action": "Compare source and ledger details; investigate coding, tax or entry differences."
+  },
+  {
+    "entity": "West",
+    "document_id": "AP0090",
+    "posting_date": "2026-06-04",
+    "amount_cents": 452561,
+    "issue": "Amount mismatch",
+    "owner": "GL accountant",
+    "action": "Compare source and ledger details; investigate coding, tax or entry differences."
+  },
+  {
+    "entity": "Central",
+    "document_id": "MAN002",
+    "posting_date": "2026-06-28",
+    "amount_cents": 100000,
+    "issue": "Ledger-only document",
+    "owner": "Controller",
+    "action": "Determine whether the document is an authorized accrual or has missing source support."
+  },
+  {
+    "entity": "Central",
+    "document_id": "MAN005",
+    "posting_date": "2026-06-28",
+    "amount_cents": 250000,
+    "issue": "Ledger-only document",
+    "owner": "Controller",
+    "action": "Determine whether the document is an authorized accrual or has missing source support."
+  },
+  {
+    "entity": "North",
+    "document_id": "MAN001",
+    "posting_date": "2026-06-28",
+    "amount_cents": 50000,
+    "issue": "Ledger-only document",
+    "owner": "Controller",
+    "action": "Determine whether the document is an authorized accrual or has missing source support."
+  },
+  {
+    "entity": "North",
+    "document_id": "MAN004",
+    "posting_date": "2026-06-28",
+    "amount_cents": 200000,
+    "issue": "Ledger-only document",
+    "owner": "Controller",
+    "action": "Determine whether the document is an authorized accrual or has missing source support."
+  },
+  {
+    "entity": "West",
+    "document_id": "MAN003",
+    "posting_date": "2026-06-28",
+    "amount_cents": 150000,
+    "issue": "Ledger-only document",
+    "owner": "Controller",
+    "action": "Determine whether the document is an authorized accrual or has missing source support."
+  }
+]

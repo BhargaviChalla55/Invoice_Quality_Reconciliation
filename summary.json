@@ -1,0 +1,19 @@
+{
+  "invoice_records": 612,
+  "exception_events": 68,
+  "flagged_invoices": 63,
+  "source_cents": 309727271,
+  "ledger_cents": 305655990,
+  "difference_cents": 4071281,
+  "missing_cents": 5071281,
+  "matched_difference_cents": -250000,
+  "ledger_only_cents": 750000,
+  "counts": {
+    "Potential duplicate": 24,
+    "Vendor master gap": 15,
+    "Date sequence": 6,
+    "Missing ledger posting": 8,
+    "Amount mismatch": 10,
+    "Ledger-only document": 5
+  }
+}
